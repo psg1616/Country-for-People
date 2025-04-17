@@ -64,5 +64,8 @@ This project is not about who controls a city.
 It’s about who restores it  
 —with love, with order, with truth.
 
+> 📬 Interested parties (U.S. Defense, USAID, OpenAI, Khan Academy Global) may request briefing materials, MOU templates, or pilot region proposals via:
+> **psg1616@gmail.com** or create an Issue on this repository.
+
 > ⚠️ This repository is an independent project and is not officially affiliated with the U.S. Army or Khan Academy.  
 > The names are used to express alignment with publicly available values and missions.
