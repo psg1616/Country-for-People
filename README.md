@@ -63,3 +63,6 @@ where ordinary people need it most.*
 This project is not about who controls a city.  
 It’s about who restores it  
 —with love, with order, with truth.
+
+> ⚠️ This repository is an independent project and is not officially affiliated with the U.S. Army or Khan Academy.  
+> The names are used to express alignment with publicly available values and missions.
