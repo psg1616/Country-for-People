@@ -1,0 +1,273 @@
+Doldol Group Master Framework (English Translation)
+
+# "Care, Justice, Connection. Designing the Operating System of Civic Life in Korea."
+
+## 1. Vision Statement
+
+"Civic life is the foundation of the nation. We align the essence of daily living and design a just and sustainable ecosystem within it."
+
+- Laundry is care.
+- Law is structure.
+- Logistics is connection.
+- Web service is system.
+- Data is the future.
+
+## 2. Mission Objectives
+
+1. Build a private innovation model for life-based public services
+2. Realize a community-centered life grounded in gospel values
+3. Develop citizen infrastructure integrating law, welfare, technology, and labor
+4. Implement data-driven policy proposals and AI public systems
+5. Restore economic foundations and generate employment for small businesses, the elderly, and women
+
+## 3. Core Organizational Structure
+
+### Doldol Holdings Inc. Structure
+
+Doldol Holdings Inc., the group’s top holding company, oversees four major subsidiaries, each integrating services in lifestyle, legal support, logistics, and digital infrastructure.
+
+1. **Doldol Care Co., Ltd.**
+   - Subscription-based laundry services, franchised shop renovations, and lounge-type welfare spaces
+   - Hygiene welfare platform for seniors, locals, and vulnerable groups
+
+2. **Doldol Legal Advisory Co., Ltd.**
+   - Legal consultation, public information services, and civic legal content
+   - Ethical advisory system for underserved citizens
+
+3. **Doldol Logistics Co., Ltd.**
+   - Laundry pickup/delivery, legal document transfer, regional logistics infrastructure
+   - Collaborates with mobility firms and municipalities for eco-friendly delivery
+
+4. **Doldol Web Service Co., Ltd.**
+   - Manages booking, payment, chatbot, logistics, and dashboard platforms
+   - Serves as the operational OS for all subsidiaries
+
+※ This 4-company model is designed for high-infrastructure regions such as Korea, Japan, Taiwan, and Singapore—ideal for advanced service industries and smart cities.
+
+### Digital Infrastructure Core
+
+- **Doldol DCIS Platform (Citizen Insight System)**
+  - Collects and structures life data from all subsidiaries
+  - Connects to GPT and Azure-powered public AI systems
+
+## 4. Subsidiary-Level Strategy (High-Infrastructure Countries)
+
+### ① Doldol Care
+- Membership-based laundry subscriptions
+- Lounge-type cafes integrated into laundry shops
+- Eco-friendly equipment + AI material detection
+- Shop reform model + women-centered employment & training
+
+### ② Doldol Legal Advisory
+- Free basic consultations, document prep, policy explanations
+- Municipal linkage, data encryption, DCIS accumulation
+- Development of lifestyle legal AI chatbots
+
+### ③ Doldol Logistics
+- Integrated pickup-laundry-delivery routes
+- ESG-compliant delivery for non-metropolitan zones
+- Legal/admin document delivery and retrieval
+- AI-driven route and fuel optimization
+
+### ④ Doldol Web Service
+- Unified booking/payment/analytics platform
+- API services for governments and civic institutions
+- Lifestyle SaaS and user dashboards
+
+## 5. Doldol DCIS Functional Summary
+
+| Function | Description |
+|----------|-------------|
+| Data Collection | Life data: laundry, law, logistics, sentiment, etc. |
+| Policy Structuring | Analyze region-specific risk and needs |
+| Welfare Recommendation | Suggest services via government linkage |
+| AI Policy Generator | Auto-generate localized policy proposals |
+
+## 6. 3-Stage Execution Plan
+
+### ● Phase 1: Establishment & MVP (0–1 year)
+- Launch 1st direct store in Busan or Daegu
+- Prototype for platform and logistics
+- In-house legal counselor stationed
+- Build initial DCIS database
+
+### ● Phase 2: Franchise & Data Linkage (1–3 years)
+- Secure 30 franchise locations
+- Open official WebService and Logistics platforms
+- Pilot agreement with one local government
+- Launch beta version of consultation chatbot
+
+### ● Phase 3: Public Platform & Global Expansion (3–5 years)
+- Partner with global brands (e.g., Uniqlo)
+- Export public admin platforms based on DCIS
+- Deploy to NGOs/governments/aid agencies
+
+## 7. Initial Investment Summary
+
+| Category | Estimated Budget |
+|----------|------------------|
+| Laundry Equipment & Facility | KRW 200M |
+| Web/App MVP Development | KRW 100M |
+| Legal Staff & Operations | KRW 50M |
+| Delivery Vehicles | KRW 100M |
+| Marketing & Ops | KRW 100M |
+| **Total** | **KRW 550M (Seed Stage)** |
+
+## 8. Administrative Structure Expansion (For Underdeveloped Regions)
+
+This model targets infrastructure-weak countries (e.g., Africa, Middle East, Latin America, post-conflict zones), minimizing reliance on existing systems and focusing on gospel-ethics-based governance export.
+
+        [正義法律所]  Doldol Legal Office
+                └── [國民正本廳]  National Civic Alignment Bureau
+                        ├─ 健康福祉處 (Health & Welfare Division)
+                        ├─ 雇傭勞務局 (Employment & Labor Bureau)
+                        ├─ 住居生活廳 (Housing & Living Agency)
+                        ├─ 敎育發展廳 (Education & Advancement Agency)
+                        ├─ 市民保護處 (Civic Protection Division)
+                        ├─ 民生財政處 (Civic Finance Division)
+                        ├─ 生活法務廳 (Civic Legal Affairs Bureau)
+                        ├─ 國民報勳處 (Veterans Affairs Division)
+                        └── [民生統合本部] Civic Integration Headquarters (AI + Data Hub)
+
+This system operates without requiring full digital infrastructure.  
+Doldol Legal Office serves as the **design executor of just governance** aligned to gospel and ethics principles.
+
+
+
+
+Doldol Group 총괄 계획안 (Master Framework)
+
+# “돌봄, 정의, 연결. 대한민국 생활의 OS를 설계한다.”
+
+## 1. 비전 (Vision Statement)
+
+“민생이 곧 국가다. 우리는 생활의 본질을 정렬하고,
+그 안에서 정의롭고 지속가능한 생태계를 설계한다.”
+
+- 세탁은 돌봄이다.
+- 법률은 구조다.
+- 물류는 연결이다.
+- 웹서비스는 시스템이다.
+- 데이터는 미래다.
+
+## 2. 미션 (Mission Objectives)
+
+1. 생활기반 공공 서비스의 민간 혁신 모델 구축
+2. 복음 가치 기반의 공동체적 삶 실현
+3. 법률/복지/기술/노동이 통합된 시민 인프라 개발
+4. 데이터를 통한 정책 기반 제안/AI 공공시스템 구현
+5. 소상공/고령자/여성의 경제 기반 회복 및 고용창출
+
+## 3. 핵심 조직 구조
+
+### Doldol Holdings Inc. 조직 구조
+
+Doldol 그룹의 최상위 지주회사인 Doldol Holdings Inc.는 총 4개의 주요 자회사를 관할하며, 각 자회사는 생활, 법률, 물류, 디지털 인프라를 통합적으로 다룬다.
+
+1. ㈜돌돌케어 (Doldol Care)
+   - 생활 세탁 구독 서비스, 지역 가맹점 리폼, 라운지형 복지 공간 운영
+   - 고령자, 지역 주민, 취약계층 대상 의류 위생 복지 플랫폼 제공
+
+2. ㈜돌돌법률자문 (Doldol Legal Advisory)
+   - 민생 법률 상담, 생활 법률 콘텐츠, 공공기관 연계 상담 플랫폼 운영
+   - 법률 접근성이 낮은 시민을 위한 윤리 기반 상담 시스템 제공
+
+3. ㈜돌돌물류 (Doldol Logistics)
+   - 세탁물 수거·배송, 법률 문서 전달, 지역 생활 물류망 담당
+   - 모빌리티 기업 및 지자체와 협업하여 친환경 배송 체계 구축
+
+4. ㈜돌돌웹서비스 (Doldol Web Service)
+   - 그룹의 예약, 정산, 상담, 물류 경로, AI 챗봇 등 디지털 플랫폼 총괄
+   - 모든 자회사들의 서비스를 통합하고 사용자 인터페이스를 제공하는 핵심 운영체계(OS)
+
+※ 위 4대 자회사 기반 모델은 **대한민국, 일본, 대만, 싱가포르 등 동아시아 및 인프라 기반이 잘 갖춰진 국가**에 적합한 모델로서,
+생활 밀착형 서비스 산업의 고도화를 중심으로 확장한다.
+
+### 디지털 통합 시스템
+
+- **Doldol DCIS Platform (Citizen Insight System)**
+  - 전 자회사로부터 발생하는 민생 데이터를 통합, 분석, 구조화
+  - GPT 및 Azure 기반 공공 AI 시스템과 연동
+
+## 4. 자회사별 세부 계획 (동아시아형 고밀도 인프라 국가 전용)
+
+### ① ㈜돌돌케어 (세탁 플랫폼)
+- 구독형 세탁 서비스
+- 라운지형 카페 세탁소 모델
+- 친환경 장비 + AI 소재 분석
+- 가맹점 리폼 모델 + 여성 고용 중심
+
+### ② ㈜돌돌법률자문 (생활법률)
+- 무료 기초 상담, 서류 작성, 정책 안내
+- 공공기관 연계, 민감 정보 암호화 관리
+- 생활법률 AI 챗봇 개발
+
+### ③ ㈜돌돌물류 (생활 물류)
+- 픽업-세탁-배송 원스톱
+- ESG 기반 비수도권 물류망
+- 행정 서류 회수 및 전달 연계
+- AI 기반 경로 최적화
+
+### ④ ㈜돌돌웹서비스 (Platform-as-a-Service)
+- 예약/결제/분석 통합 플랫폼
+- 지자체·공공기관 대상 API 오픈
+- 생활형 SaaS, Dashboard 제공
+
+## 5. Doldol DCIS 기능 요약
+
+| 기능 | 설명 |
+|------|------|
+| 민감 생활 데이터 수집 | 세탁, 법률, 배송, 감정 기록 등 |
+| 정책 분석용 정제 | 지역별 리스크, 생활고 감지 |
+| 복지 추천 시스템 | 행정복지센터 연동 제안 기능 |
+| AI 정책 제안 | 동네 단위 정책 제안 자동화 |
+
+## 6. 3단계 실행 전략
+
+### ● 1단계: 설립 및 MVP 검증 (0~1년)
+- 부산/대구 직영 1호점 오픈
+- 초기 Web 플랫폼, 수거배송 프로토타입
+- 법률상담 상주 운영
+- DCIS 1차 구축
+
+### ● 2단계: 프랜차이즈/데이터 연동 (1~3년)
+- 가맹점 30개 확보
+- Logistics 정식 오픈, 지자체 시범협약 체결
+- 상담 챗봇 베타 운영
+
+### ● 3단계: 공공 플랫폼화 및 글로벌 협약 (3~5년)
+- 글로벌 기업 파트너십 체결
+- DCIS 기반 공공 플랫폼 수출
+- 정부/NGO 대상 플랫폼 공급
+
+## 7. 초기 투자 계획 요약
+
+| 항목 | 예산 |
+|------|------|
+| 세탁 장비 및 공간 | 약 2억 원 |
+| 웹/앱 플랫폼 MVP | 약 1억 원 |
+| 법률 자문 인력 + 운영 | 5천만 원 |
+| 물류/배송 차량 | 1억 원 |
+| 마케팅 및 운영비 | 1억 원 |
+| 총계 | 약 5억 5천만 원 |
+
+## 8. 확장 행정 구조 통합 (인프라 미구축 국가 전용)
+
+아래 구조는 인프라가 미비하거나 복지·행정 시스템이 약한 국가(예: 아프리카, 중동, 중남미, 전후국가 등)에 특화된 구조로, 
+기존 자회사형 서비스를 축소하고, 법률과 윤리를 중심으로 행정 체계를 바로 세우는 **‘복음 기반 행정 수출 모델’**이다.
+
+        [正義法律所]  돌돌 법률 사무소
+                └── [國民正本廳]  국민정본청
+                        ├─ 健康福祉處 (건강복지처)
+                        ├─ 雇傭勞務局 (고용노무국)
+                        ├─ 住居生活廳 (주거생활청)
+                        ├─ 敎育發展廳 (교육발전청)
+                        ├─ 市民保護處 (시민보호처)
+                        ├─ 民生財政處 (민생재정처)
+                        ├─ 生活法務廳 (생활법무청)
+                        ├─ 國民報勳處 (국민보훈처)
+                        └── [民生統合本部] 민생통합본부 (AI+데이터 허브)
+
+해당 구조는 디지털 인프라를 전제로 하지 않으며, 
+돌돌 법률 사무소가 복음·윤리를 기준으로 **행정 설계자 역할**을 수행하는 전파형 구조이다.
+
